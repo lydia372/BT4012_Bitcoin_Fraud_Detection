@@ -58,3 +58,7 @@ When the notebook starts, select the **BT4012** kernel (the one registered in st
 ├── sample_submission.csv              # Submission template
 └── submission_*.csv                   # Generated submission files
 ```
+
+## AI Usage Declaration
+
+All research ideas, experiment design, feature engineering decisions, and model selection in this project are my own original work. I used Claude (Anthropic) as an AI coding assistant to help implement my ideas, structure the codebase, and push code to the repository. The intellectual contribution — problem formulation, methodology, and interpretation of results — is entirely mine.
